@@ -14,6 +14,20 @@ TacosBusiness1738 provides a ui to service dynamic mobile-business'es.
 <img align="left" src="https://github.com/TacosBusiness1738/TacosBusiness1738/blob/main/Business%20Presentation.png" width="150" height="250">
 </p>
 
+
+## Lifecycle (sales service)
+
+<p>
+<img align="left" src="https://github.com/TacosBusiness1738/TacosBusiness1738/blob/main/Cart%20Presentation.png" width="150" height="250">
+</p>
+
+
+## Lifecycle (consumer service)
+
+<p>
+<img align="left" src="https://github.com/TacosBusiness1738/TacosBusiness1738/blob/main/Navigation%20Presentation.png" width="150" height="250">
+</p>
+
 <p>
 :cloud: Cloud Accounts
   
