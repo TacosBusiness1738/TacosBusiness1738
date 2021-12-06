@@ -11,7 +11,7 @@ TacosBusiness1738 provides a ui to service dynamic mobile-business'es.
 ## Lifecycle (dynamic service)
 
 <p>
-<img align="left" src="..." width="150" height="250">
+<img align="left" src="https://github.com/TacosBusiness1738/TacosBusiness1738/blob/main/Business%20Presentation.png" width="150" height="250">
 </p>
 
 <p>
