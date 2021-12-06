@@ -31,8 +31,8 @@ TacosBusiness1738 provides a ui to service dynamic mobile-business'es.
 ---
 
 <p>
-<img align="left" src="...." width="350" height="200"/>
-<img align="middle" src="..." width="350" height="200"/>
+<img align="left" src="https://github.com/TacosBusiness1738/TacosBusiness1738/blob/main/Primary.png" width="350" height="200"/>
+<img align="middle" src="https://github.com/TacosBusiness1738/TacosBusiness1738/blob/main/Secondary.png" width="350" height="200"/>
 </p>
 
 ## FAQ
