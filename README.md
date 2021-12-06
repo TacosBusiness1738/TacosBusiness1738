@@ -8,11 +8,6 @@ TacosBusiness1738 provides a ui to service dynamic mobile-business'es.
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
-<p>
-<img src="..." 
-     width="100" height="100" />
-</p>
-
 ## Lifecycle (dynamic service)
 
 <p>
